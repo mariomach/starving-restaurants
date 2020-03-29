@@ -1,6 +1,6 @@
 <template>
 <section class="section">
-<div class="container is-fluid">
+<div class="container ">
   <div class="tile">
     <!-- <div class="level-item"> -->
   <div class="card">

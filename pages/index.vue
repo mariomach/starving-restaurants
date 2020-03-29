@@ -9,7 +9,7 @@
         <strong>Your local favourite restaurants are going hungry ...</strong>
       </h1>
       <h2 class="subtitle is-size-4">
-        And they might not be able to take care of you again :(
+        Take a bet on them so they take care of you again!
          <i class="fas fa-sad-tear"></i>
       </h2>
        <div class="container">

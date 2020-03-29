@@ -37,6 +37,8 @@
   /* color: #cc6600; */
   color: aliceblue;
   text-decoration: none;
+  margin-left: 12px;
+  margin-top: 15px;
 }
 .nav {
   display: flex;
