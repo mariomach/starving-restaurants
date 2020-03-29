@@ -1,56 +1,32 @@
 <template>
 <section class="hero is-info is-large">
   <div class="hero-head">
-    <nav class="navbar">
-      <div class="container">
-        <div class="navbar-brand">
-          <!-- <a class="navbar-item">
-            <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
-          </a> -->
-          <p class="title"> Starving Restaurants</p>
-          <span class="navbar-burger burger" data-target="navbarMenuHeroB">
-            <span></span>
-            <span></span>
-            <span></span>
-          </span>
-        </div>
-        <div id="navbarMenuHeroB" class="navbar-menu">
-          <div class="navbar-end">
-            <a class="navbar-item is-active">
-              <NLink to="/" class="navbar-font">Home</NLink>
-              
-            </a>
-            <a class="navbar-item is-active">
-              <nuxt-link to="/fans" class="navbar-font">Fans</nuxt-link>
-            </a>
-            <a class="navbar-item is-active">
-              <nuxt-link to="/restaurants" class="navbar-font">Restaurants</nuxt-link>
-            </a>
-            <a class="navbar-item is-active">
-              <nuxt-link to="/faq" class="navbar-font">FAQ</nuxt-link>
-            </a>
-
-              <a class="navbar-item is-active">
-              <nuxt-link to="/contact" class="navbar-font">Contact</nuxt-link>
-            </a>
-           
-          </div>
-        </div>
+    <div class="container">
+      <div class="nav">
+        <nuxt-link to="/" class="brand">
+          Starving Restaurants
+        </nuxt-link>
+        <nav>
+          <nuxt-link to="/" class="end">
+            <h5 class="has-text-white">Home</h5>
+          </nuxt-link> |
+          <nuxt-link to="/fans" class="end">
+            <h5 class="has-text-white">Fans</h5>
+          </nuxt-link> |
+            <nuxt-link to="/restaurants" class="end">
+            <h5 class="has-text-white">Restaurants</h5>
+          </nuxt-link> |
+              <nuxt-link to="/faq" class="end">
+            <h5 class="has-text-white">FAQ</h5>
+          </nuxt-link> |
+              <nuxt-link to="/contact" class="end">
+            <h5 class="has-text-white">Contact</h5>
+          </nuxt-link>
+        </nav>
       </div>
-    </nav>
-  
-   
-<!--  <a class="navbar-item">
-      <nuxt-link to="/fans">
-        Fans
-      </nuxt-link>
-    </a> -->
-
-</div>
+    </div>
+  </div>
 </section>
-
-
-
 </template>
 
 <style scoped>
@@ -58,44 +34,33 @@
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   font-size: 1.5em;
+  /* color: #cc6600; */
+  color: aliceblue;
+  text-decoration: none;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+.nav .nav-item {
+  box-sizing: border-box;
+  margin: 0 5px;
+  color: rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+}
+.nav .nav-item.router-link-exact-active {
   color: #39b982;
-  text-decoration: none;
+  border-bottom: solid 2px #39b982;
+}
+.nav a {
+  display: inline-block;
 }
 
-.end {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
-  font-size: 1.3em;
-  color: #39b982;
-  text-decoration: none;
-}
-
-link {
-    color: #0060B6;
-    text-decoration: none;
-}
-
-a:hover 
+/* .brand
 {
-     color:#00A0C6; 
-     text-decoration:none; 
-     cursor:pointer;  
-}
-
-.navbar-font
-{
-  text-decoration: none;
   color:aliceblue;
-}
-
-.title
-{
-  padding-top: 15px;
-  /* margin-top: 10px; */
-}
-
-.is-active{
-  background-color: blue;
-}
+  text-decoration: none;
+} */
 </style>
-

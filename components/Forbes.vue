@@ -23,9 +23,10 @@
     </div>
 
     <div class="content">
-      The Restaurant Industry Needs A Coronavirus Bailout. Will They Get It?
+      <strong>The Restaurant Industry Needs A Coronavirus Bailout. Will They Get It?</strong>
       <br>
       <time datetime="2016-3-19">March 19, 2020, 12:13AM EDT</time>
+      <a href="https://www.forbes.com/sites/elvaramirez/2020/03/19/the-restaurant-industry-needs-a-coronavirus-bailout-will-they-get-it/#23cbc89b6801">Source</a>
     </div>
   </div>
 </div>

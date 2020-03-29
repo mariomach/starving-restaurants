@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div class="layers">
+      <title>Starving Restaurants</title>
     <NavBar></NavBar>
     </div>
     <nuxt />
@@ -13,10 +14,16 @@ import NavBar from '~/components/NavBar.vue'
 import Footer from '~/components/Footer.vue'
 
 export default {
+  head() {
+    return {
+      titleTemplate: 'Starving Restaurants',
+    }
+  },
   components: {
     NavBar,
     Footer,
-  }
+  },
+  
 }
 </script>
 
