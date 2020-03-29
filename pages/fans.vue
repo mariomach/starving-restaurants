@@ -7,11 +7,10 @@
     <div class="container">
 <article class="message is-warning">
   <div class="message-body">
-  Starting April 6, every restaurants listed below will be offering digital gift cards (eGifts) at a discount.
-  They will each have a website where you can take advantage of their deals. To reward early supporters, <strong>discount will be the highest at the beginning of this campaign.
-    So don't hesitate to take action now!  </strong>   Every week, the discount rate will be lowered by 5%. 
-    The minimum purchase amount is $10. You will receive the gift cards through email and you should be set for 5 years before they expire. Happy shopping
-    and start stacking!
+  Starting April 6, every restaurants listed below will be listing a donation link where you can show your support by
+  buying a gift cards (eGifts) from them. In return for your support, it will be offered at a discount.
+  To reward early supporters, <strong>discount will be the highest at the beginning of this campaign.
+    So don't hesitate to take action now!  </strong>   Every week, the discount rate will be lowered by 5% with a 10% floor. 
   </div>
 </article>
     </div>
@@ -19,8 +18,7 @@
      <div class="container">
 <article class="message is-danger">
   <div class="message-body">
-  Over time, more restaurants will be added to the list as words spread. So if you managed to snatch up a
-  killer deal in the previous weeks, I would encourage you to come back. 
+  Over time, more restaurants will be added to the list as words spread. I would encourage you to keep monitoring this site.
   Or even better, you should reach out to the restaurants and tell them to sign up!
   </div>
 </article>
@@ -68,7 +66,7 @@
 
 <section class="section">
     <div class="container">
-      <p class="title has-text-success"> More Restaurants and Valid Links Will Be Provided. Stay tune.</p>
+      <p class="title has-text-success"> More Restaurants and Donation Links Will Be Provided. Stay tune.</p>
   <div class="tile is-ancestor">
   <div class="tile is-vertical is-8">
     <div class="tile">
@@ -80,7 +78,7 @@
             <p class="title">Kedai Makan</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -94,7 +92,7 @@
             <p class="title">Lola</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -110,7 +108,7 @@
             <p class="title">Sushi Kashiba</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -124,7 +122,7 @@
             <p class="title">Musashi</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -151,7 +149,7 @@
             <p class="title">Oddfellows</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -165,7 +163,7 @@
             <p class="title">Peony</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">

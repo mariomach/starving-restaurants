@@ -67,7 +67,7 @@
       Your guess is as good as mine. But wait...
     </p>
     <p class="subtitle has-text-weight-bold has-text-white">
-    What if there is a way you can help them and in return get rewarded?
+    What if there is a way you can support them and get rewarded?
     </p>
         <!-- <p class="subtitle has-text-white">
     Interested in finding out how?
@@ -107,7 +107,7 @@
             <p class="title">Kedai Makan</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -121,7 +121,7 @@
             <p class="title">Lola</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -137,7 +137,7 @@
             <p class="title">Sushi Kashiba</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -151,7 +151,7 @@
             <p class="title">Musashi</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -178,7 +178,7 @@
             <p class="title">Oddfellows</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -192,7 +192,7 @@
             <p class="title">Peony</p>
             </div>
           <div class="level-right">
-          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Donate</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
