@@ -11,7 +11,7 @@
             <h5 class="has-text-white">Home</h5>
           </nuxt-link> |
           <nuxt-link to="/fans" class="end">
-            <h5 class="has-text-white">Fans</h5>
+            <h5 class="has-text-white">Seattle</h5>
           </nuxt-link> |
             <nuxt-link to="/restaurants" class="end">
             <h5 class="has-text-white">Restaurants</h5>
@@ -20,7 +20,7 @@
             <h5 class="has-text-white">FAQ</h5>
           </nuxt-link> |
               <nuxt-link to="/contact" class="end">
-            <h5 class="has-text-white">Contact</h5>
+            <h5 class="has-text-white">Sign Up</h5>
           </nuxt-link>
         </nav>
       </div>

@@ -4,42 +4,34 @@
     <div class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
   <thead>
     <tr>
-      <th>Funding Raised</th>
-      <th>Gratuity</th>
+      <th>Week</th>
+      <th>Discount</th>
 
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Below $2500</td>
-      <td>0% The money is refunded back to you</td>
+      <td class=" is-danger">April 6 - April 12</td>
+      <td class="is-danger">30%</td>
     </tr>
   
     <tr>
-      <td>$2500-$5000</td>
-      <td>10%</td>
-    </tr>
-      <tr>
-      <td>$5000-$10,000</td>
+      <td>April 13 - April 19</td>
       <td>25%</td>
     </tr>
+      <tr>
+      <td>April 20 - April 26</td>
+      <td>20%</td>
+    </tr>
     <tr>
-      <td>$10,000-$40,000</td>
-      <td>30%</td>
+      <td>April 27 - May 3</td>
+      <td>15%</td>
     </tr>
 
     <tr>
-      <td>$40,000-$50,000</td>
-      <td>50%</td>
-    </tr>
-
-    <tr>
-      <td>Above $50,000</td>
-      <td>No more participation</td>
-    </tr>
-    
- 
-   
+      <td>May 4 - May 17 (2 weeks)</td>
+      <td>10%</td>
+    </tr>   
    
   </tbody>
   </div>

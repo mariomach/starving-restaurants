@@ -7,14 +7,27 @@
     <div class="container">
 <article class="message is-warning">
   <div class="message-body">
-    Here's where you can participate to support your favourite restaurants. But wait. This is not like any other fundraiser.
-    Everyone comes out happy because the more money the restaurants raise, <strong>the more money you earn back!</strong>
-    Not only will all your contributions be reiumbursed back to you, but <strong>you will receive a bonus (up to 50%)</strong> for your support!
-    The only catch is you can only spend the money at that restaurant. 
+  Starting April 6, every restaurants listed below will be offering digital gift cards (eGifts) at a discount.
+  They will each have a website where you can take advantage of their deals. To reward early supporters, <strong>discount will be the highest at the beginning of this campaign.
+    So don't hesitate to take action now!  </strong>   Every week, the discount rate will be lowered by 5%. 
+    The minimum purchase amount is $10. You will receive the gift cards through email and you should be set for 5 years before they expire. Happy shopping
+    and start stacking!
+  </div>
+</article>
+    </div>
+
+     <div class="container">
+<article class="message is-danger">
+  <div class="message-body">
+  Over time, more restaurants will be added to the list as words spread. So if you managed to snatch up a
+  killer deal in the previous weeks, I would encourage you to come back. 
+  Or even better, you should reach out to the restaurants and tell them to sign up!
   </div>
 </article>
     </div>
 </section>
+ 
+
 
 <body>
   <div class="container">
@@ -23,15 +36,15 @@
   <div class="tile is-one-thirds">
     <Table></Table>
   </div>
-  <div class="tile is-one-thirds">
+  <!-- <div class="tile is-one-thirds">
       <div class="box">
   <article class="media">
     <div class="media-content">
       <div class="content">
         <p>
-          <strong class="has-text-black">Examples:</strong>
+          <strong class="has-text-black">Examples:</strong> -->
           <!-- <small>@johnsmith</small> <small>31m</small> -->
-                <h6 class="has-text-info">Collective Contributions: $24,230 </h6>
+                <!-- <h6 class="has-text-info">Collective Contributions: $24,230 </h6>
           <h6 class="has-text-info">Your Contribution: $60</h6>
           <h6 class="has-text-success">Grauity Reward (30%): $18</h6>
           <h6 class="has-text-success">Your Total: $78</h6>
@@ -47,23 +60,137 @@
       </div>      
     </div>
   </article>
-</div>
-  </div>
+</div> -->
+  <!-- </div> -->
 </div>
   </div>
 </body>
 
-
-
-
-
 <section class="section">
     <div class="container">
+      <p class="title has-text-success"> More Restaurants and Valid Links Will Be Provided. Stay tune.</p>
+  <div class="tile is-ancestor">
+  <div class="tile is-vertical is-8">
+    <div class="tile">
+      <!-- Left Column -->
+      <div class="tile is-parent is-vertical">
+        <article class="tile is-child notification is-danger">
+          <div class="level">
+          <div class="level-left">
+            <p class="title">Kedai Makan</p>
+            </div>
+          <div class="level-right">
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          </div>
+          </div>
+          <figure class="image is-4by3">
+             <img src="~/static/kedai.jpg">
+          </figure>
+        </article>
+
+   <article class="tile is-child notification is-danger">
+          <div class="level">
+          <div class="level-left">
+            <p class="title">Lola</p>
+            </div>
+          <div class="level-right">
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          </div>
+          </div>
+          <figure class="image is-4by3">
+            <img src="~/static/lola.jpg">
+          </figure>
+        </article>
+      </div>
+      <!-- Middle Column  -->
+      <div class="tile is-parent is-vertical">
+        <article class="tile is-child notification is-danger">
+          <div class="level">
+          <div class="level-left">
+            <p class="title">Sushi Kashiba</p>
+            </div>
+          <div class="level-right">
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          </div>
+          </div>
+          <figure class="image is-4by3">
+             <img src="~/static/kashiba.jpg">
+          </figure>
+        </article>
+
+        <article class="tile is-child notification is-danger">
+          <div class="level">
+          <div class="level-left">
+            <p class="title">Musashi</p>
+            </div>
+          <div class="level-right">
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          </div>
+          </div>
+          <figure class="image is-4by3">
+             <img src="~/static/musashi.jpg">
+          </figure>
+        </article>
+      </div>
+    </div>
+    <!-- <div class="tile is-parent">
+      <article class="tile is-child notification is-danger">
+        <p class="title">Wide tile</p>
+        <p class="subtitle">Aligned with the right tile</p>
+        <div class="content">
+          <!-- Content -->
+        <!-- </div>
+      </article>
+    </div> -->
+  </div>
+  <!-- Right Column -->
+ <div class="tile is-parent is-vertical"> 
+   <article class="tile is-child notification is-danger">
+          <div class="level">
+          <div class="level-left">
+            <p class="title">Oddfellows</p>
+            </div>
+          <div class="level-right">
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          </div>
+          </div>
+          <figure class="image is-4by3">
+             <img src="~/static/oddfellows.jpg">
+          </figure>
+        </article>
+
+           <article class="tile is-child notification is-danger">
+          <div class="level">
+          <div class="level-left">
+            <p class="title">Peony</p>
+            </div>
+          <div class="level-right">
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
+          </div>
+          </div>
+          <figure class="image is-4by3">
+            <img src="~/static/peony.jpg">
+          </figure>
+        </article>
+  </div>
+
+  <nuxt-link to="/fans" class="navbar-font"></nuxt-link>
+</div>
+
+    </div>
+</section>
+
+
+
+
+
+<!-- <section class="section">
+    <div class="container"> -->
         <!-- <div class="notification">
             This container is <strong>fluid</strong>: it will have a 32px gap on either side, on any
             viewport size.
         </div> -->
-        <article class="message is-info">
+        <!-- <article class="message is-info">
   <div class="message-header">
     <p class="title has-text-white">The game plan</p>
   </div>
@@ -94,7 +221,7 @@ Restaurant's registration for this public offering begins this Friday starting a
   </div>
 </article>
     </div>
-</section>
+</section> -->
 
 </div>
 </template>

@@ -107,7 +107,7 @@
             <p class="title">Kedai Makan</p>
             </div>
           <div class="level-right">
-          <button class="button is-success"><nuxt-link to="/fans" class="navbar-font"><strong>Support them</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -121,7 +121,7 @@
             <p class="title">Lola</p>
             </div>
           <div class="level-right">
-          <button class="button is-success"><nuxt-link to="/fans" class="navbar-font"><strong>Support them</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -137,7 +137,7 @@
             <p class="title">Sushi Kashiba</p>
             </div>
           <div class="level-right">
-          <button class="button is-success"><nuxt-link to="/fans" class="navbar-font"><strong>Support them</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -151,7 +151,7 @@
             <p class="title">Musashi</p>
             </div>
           <div class="level-right">
-          <button class="button is-success"><nuxt-link to="/fans" class="navbar-font"><strong>Support them</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -178,7 +178,7 @@
             <p class="title">Oddfellows</p>
             </div>
           <div class="level-right">
-          <button class="button is-success"><nuxt-link to="/fans" class="navbar-font"><strong>Support them</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">
@@ -192,7 +192,7 @@
             <p class="title">Peony</p>
             </div>
           <div class="level-right">
-          <button class="button is-success"><nuxt-link to="/fans" class="navbar-font"><strong>Support them</strong></nuxt-link></button> 
+          <button class="button is-warning"><nuxt-link to="/fans" class="navbar-font"><strong>Deals</strong></nuxt-link></button> 
           </div>
           </div>
           <figure class="image is-4by3">

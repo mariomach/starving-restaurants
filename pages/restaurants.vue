@@ -5,23 +5,17 @@
             This container is <strong>fluid</strong>: it will have a 32px gap on either side, on any
             viewport size.
         </div> -->
-        <article class="message is-info">
+        <article class="message is-warning">
   <div class="message-header">
     <p class="title has-text-white">The game plan</p>
   </div>
   <div class="message-body">
     <h6>
-        Think of this as raising money with <strong>0% interest rate and no dilution in ownership. </strong>The money you've raised will
+        If you're not convinced, think of this as raising money with <strong>0% interest rate and no dilution in ownership. </strong>The money you've raised will
         be <strong>available for you immediately</strong> after the fundraising period.
         You will have a lump sum of cash to pay off your fixed costs. 
-        This will help bring confidence and stability for your business.
-        <br></br>
-        In addition, because we are helping you offer gift credits to your supporter, 
-        you will have a line of customers waiting outside your restaurants once the world is safe again for business.
-        <br></br>
-        If you are worried that you won't be able to meet all the demands from the credits you have issued, 
-        do not fear.
-        Since they are valid for 10 years, this will prevent everyone from jumping in all at once.
+      <br></br>
+        To participate, the process is very simple:
             </h6>
         </div>
     </article>
@@ -35,10 +29,15 @@
         <article class="tile is-child box">
           <!-- Put any content you want -->
            <div class="content">
-            <p class="has-text-weight-medium is-size-5">Step One:</p>
-            <p class="subtitle">Fill out this <a>form</a> and email it to: info@starvingrestaurants.com
-            <br></br>Do not wait. 
-            <br></br>Deadline is on April 10, 2020 at 6:00 PM (PST)</p>
+            <p class="has-text-weight-medium is-size-5 has-text-success">Step One:</p>
+            <p class="subtitle">You will need:<br></br>
+              1. A website that issues eGifts. Square offers a great platform if you don't already have one. And it is free to use!
+              The only catch is they will charge you a transaction fee. You can get set up 
+              <a href="https://squareup.com/us/en/l/egift-cards">here</a>.
+              <br></br>
+              2. You must  apply a discount rate to all your cards offering. The lowest increment you can offering
+              must be $10. In the future, you will need the app from Square to process these eGifts. Please keep one handy. 
+            </p>
           </div>
         </article>
       </div>
@@ -47,13 +46,10 @@
       <article class="tile is-child box">
         <!-- Put any content you want -->
             <div class="content">
-            <p class="has-text-weight-medium is-size-5">Step Two:</p>
-            <p class="subtitle">You will receive two emails. One is to let you know your registration has been 
-                approved. The other
-                to notify you that your business has been listed on the site.
-            <br></br> During the fundraising period, continue monitoring this site to find out how
-            much you have raised.
-            </p>
+            <p class="has-text-weight-medium is-size-5 has-text-danger">Step Two:</p>
+            <p class="subtitle">Follow the instruction <a href="/contact">here</a> and email us at: info@starvingrestaurants.com
+            <br></br>Do not wait. 
+            <br></br>The sooner you get it in, the faster you will get listed. Turnaround time is about 1 day.</p>
           </div>
         
       </article>
@@ -63,12 +59,13 @@
     <article class="tile is-child box">
       <!-- Put any content you want -->
          <div class="content">
-            <p class="has-text-weight-medium is-size-5">Step Three:</p>
-            <p class="subtitle">If your restaurant has raised over $2500, congratulations!
-                The total amount will be issued to you in the form of a cheque in 2-3 days.
-                <br></br> We will taking care of the gift certificate disbursements for you.
-                Once all the certificates are sent out, we will walk you through setting up 
-                a system for accepting them as form of payment.
+            <p class="has-text-weight-medium is-size-5 has-text-info">Step Three:</p>
+            <p class="subtitle">
+              Every Monday, you must update your discount rate to follow the promotion scheme found
+              <a href="/fans">here</a>. An email reminder will be sent out every Sunday.
+              
+              <br></br>You cannot deviate from the current promotion rate
+  regardless of when you are listed. Any restaurant reported for not following will be removed.
             </p>
           </div>
     </article>
