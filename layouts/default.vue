@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="layers">
-      <title>Starving Restaurants</title>
+      <title>Hungry Restaurants</title>
     <NavBar></NavBar>
     </div>
     <nuxt />
@@ -16,7 +16,7 @@ import Footer from '~/components/Footer.vue'
 export default {
   head() {
     return {
-      titleTemplate: 'Starving Restaurants',
+      titleTemplate: 'Hungry Restaurants',
     }
   },
   components: {

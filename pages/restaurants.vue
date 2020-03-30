@@ -47,7 +47,7 @@
         <!-- Put any content you want -->
             <div class="content">
             <p class="has-text-weight-medium is-size-5 has-text-danger">Step Two:</p>
-            <p class="subtitle">Follow the instruction <a href="/contact">here</a> and email us at: info@starvingrestaurants.com
+            <p class="subtitle">Follow the instruction <a href="/contact">here</a> and email: imariomach@gmail.com
             <br></br>Do not wait. 
             <br></br>The sooner you get it in, the faster you will get listed. Turnaround time is about 1 day.</p>
           </div>

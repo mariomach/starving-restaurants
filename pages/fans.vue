@@ -234,5 +234,8 @@ export default {
 </script>
 
 <style>
-
+h6
+{
+  margin-left: 15px;
+}
 </style>

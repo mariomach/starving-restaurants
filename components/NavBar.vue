@@ -4,7 +4,7 @@
     <div class="container">
       <div class="nav">
         <nuxt-link to="/" class="brand">
-          Starving Restaurants
+          Hungry Restaurants
         </nuxt-link>
         <nav>
           <nuxt-link to="/" class="end">
@@ -15,6 +15,9 @@
           </nuxt-link> |
             <nuxt-link to="/restaurants" class="end">
             <h5 class="has-text-white">Restaurants</h5>
+          </nuxt-link> |
+            <nuxt-link to="/challenges" class="end">
+            <h5 class="has-text-white">Challenges</h5>
           </nuxt-link> |
               <nuxt-link to="/faq" class="end">
             <h5 class="has-text-white">FAQ</h5>
@@ -33,12 +36,12 @@
 .brand {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 1.5em;
+  font-size: 1.2em;
   /* color: #cc6600; */
   color: aliceblue;
   text-decoration: none;
   margin-left: 12px;
-  margin-top: 15px;
+  margin-top: 0px;
 }
 .nav {
   display: flex;
