@@ -1,10 +1,10 @@
 <template>
 <div>
-  <section class="hero is-info is-fullheight-with-navbar">
+  <section class="hero is-orange is-fullheight-with-navbar">
   <div class="hero-body">
     <div class="container has-text-centered">
       <div class="container has-text-centered">
-      <h1 class="title is-size-2">
+      <h1 class="title is-size-2 has-text-white">
         <!-- <strong>To Bail Out Or Not</strong> -->
         <strong>Your local favourite restaurants are going hungry ...</strong>
       </h1>
@@ -262,5 +262,8 @@ export default {
 <style scoped>
 a {
   color:aliceblue
+}
+.hero{
+  background-color:orange
 }
 </style>

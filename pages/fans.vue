@@ -5,7 +5,7 @@
 
 <section class="section">
     <div class="container">
-<article class="message is-warning">
+<article class="message is-info">
   <div class="message-body">
   Starting April 6, every restaurants listed below will be listing a donation link where you can show your support by
   buying a gift cards (eGifts) from them. In return for your support, it will be offered at a discount.

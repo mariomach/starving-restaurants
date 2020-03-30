@@ -5,7 +5,7 @@
             This container is <strong>fluid</strong>: it will have a 32px gap on either side, on any
             viewport size.
         </div> -->
-        <article class="message is-warning">
+        <article class="message is-info">
   <div class="message-header">
     <p class="title has-text-white">The game plan</p>
   </div>

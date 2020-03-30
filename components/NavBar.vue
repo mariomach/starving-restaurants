@@ -1,5 +1,5 @@
 <template>
-<section class="hero is-info is-large">
+<section class="hero  is-large">
   <div class="hero-head">
     <div class="container">
       <div class="nav">
@@ -64,6 +64,9 @@
   display: inline-block;
 }
 
+.hero{
+  background-color:orange
+}
 /* .brand
 {
   color:aliceblue;
