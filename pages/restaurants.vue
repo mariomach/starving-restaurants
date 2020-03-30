@@ -47,7 +47,10 @@
         <!-- Put any content you want -->
             <div class="content">
             <p class="has-text-weight-medium is-size-5 has-text-danger">Step Two:</p>
-            <p class="subtitle">Follow the instruction <a href="/contact">here</a> and email: imariomach@gmail.com
+            <p class="subtitle">Sign up
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKO87747DSyvaEJDxP-kInT5kqA3SB6skZErquEfMTnEZNsg/viewform">
+              here
+              </a>
             <br></br>Do not wait. 
             <br></br>The sooner you get it in, the faster you will get listed. Turnaround time is about 1 day.</p>
           </div>

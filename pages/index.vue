@@ -13,7 +13,7 @@
          <i class="fas fa-sad-tear"></i>
       </h2>
        <div class="container">
-      <div class="button is-danger"><p class="is-size-5"><a href="#learnmore">Lean More</a><br /></p></div>
+      <div class="button is-danger"><p class="is-size-5"><a href="#learnmore">Learn More</a><br /></p></div>
       </div>
       <div class="container">
       <!-- <h1 class="title">Dominos</h1> -->
