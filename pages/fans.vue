@@ -7,10 +7,10 @@
     <div class="container">
 <article class="message is-info">
   <div class="message-body">
-  Starting April 6, every restaurants listed below will be listing a donation link where you can show your support by
+  Starting April 13, every restaurants listed below will be listing a donation link where you can show your support by
   buying a gift cards (eGifts) from them. In return for your support, it will be offered at a discount.
   To reward early supporters, <strong>discount will be the highest at the beginning of this campaign.
-    So don't hesitate to take action now!  </strong>   Every week, the discount rate will be lowered by 5% with a 10% floor. 
+    So don't hesitate to take action now!  </strong>   Every week, the discount rate will be lowered by 5% with a 5% floor. 
   </div>
 </article>
     </div>
@@ -66,7 +66,7 @@
 
 <section class="section">
     <div class="container">
-      <p class="title has-text-success"> More Restaurants and Donation Links Will Be Provided. Stay tune.</p>
+      <p class="title has-text-success"> New restaurants are being added every day. The links will be live when then promotion period begins</p>
   <div class="tile is-ancestor">
   <div class="tile is-vertical is-8">
     <div class="tile">

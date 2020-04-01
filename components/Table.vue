@@ -11,27 +11,27 @@
   </thead>
   <tbody>
     <tr>
-      <td class=" is-danger">April 6 - April 12</td>
-      <td class="is-danger">30%</td>
+      <td class=" is-danger">April 13 - April 19</td>
+      <td class="is-danger">20%</td>
     </tr>
   
     <tr>
-      <td>April 13 - April 19</td>
-      <td>25%</td>
-    </tr>
-      <tr>
       <td>April 20 - April 26</td>
-      <td>20%</td>
-    </tr>
-    <tr>
-      <td>April 27 - May 3</td>
       <td>15%</td>
     </tr>
-
+      <tr>
+      <td>April 27 - May 3</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>May 4 - May 10</td>
+      <td>5%</td>
+    </tr>
+<!-- 
     <tr>
       <td>May 4 - May 17 (2 weeks)</td>
       <td>10%</td>
-    </tr>   
+    </tr>    -->
    
   </tbody>
   </div>
