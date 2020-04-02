@@ -93,14 +93,14 @@
       </div>
 </section>
 
-<section class="section">
+<!-- <section class="section">
     <div class="container is-fluid">
       <p class="title"> Seattle's Favourites</p>
   <div class="tile is-ancestor">
   <div class="tile is-vertical is-8">
-    <div class="tile">
+    <div class="tile"> -->
       <!-- Left Column -->
-      <div class="tile is-parent is-vertical">
+      <!-- <div class="tile is-parent is-vertical">
         <article class="tile is-child notification is-danger">
           <div class="level">
           <div class="level-left">
@@ -128,9 +128,9 @@
             <img src="~/static/lola.jpg">
           </figure>
         </article>
-      </div>
+      </div> -->
       <!-- Middle Column  -->
-      <div class="tile is-parent is-vertical">
+      <!-- <div class="tile is-parent is-vertical">
         <article class="tile is-child notification is-danger">
           <div class="level">
           <div class="level-left">
@@ -160,18 +160,10 @@
         </article>
       </div>
     </div>
-    <!-- <div class="tile is-parent">
-      <article class="tile is-child notification is-danger">
-        <p class="title">Wide tile</p>
-        <p class="subtitle">Aligned with the right tile</p>
-        <div class="content">
-          <!-- Content -->
-        <!-- </div>
-      </article>
-    </div> -->
-  </div>
+
+  </div> -->
   <!-- Right Column -->
- <div class="tile is-parent is-vertical"> 
+ <!-- <div class="tile is-parent is-vertical"> 
    <article class="tile is-child notification is-danger">
           <div class="level">
           <div class="level-left">
@@ -205,7 +197,7 @@
 </div>
 
     </div>
-</section>
+</section> -->
 
 
 <!-- <div class="column">

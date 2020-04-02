@@ -22,7 +22,7 @@
               <nuxt-link to="/faq" class="end">
             <h5 class="has-text-white">FAQ</h5>
               </nuxt-link> |
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKO87747DSyvaEJDxP-kInT5kqA3SB6skZErquEfMTnEZNsg/viewform">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKO87747DSyvaEJDxP-kInT5kqA3SB6skZErquEfMTnEZNsg/viewform" target="_blank">
             <h5 class="has-text-white">Sign Up</h5>
               </a>
 

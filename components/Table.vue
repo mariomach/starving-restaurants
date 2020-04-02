@@ -24,7 +24,7 @@
       <td>10%</td>
     </tr>
     <tr>
-      <td>May 4 - May 10</td>
+      <td>May 4 - TBD</td>
       <td>5%</td>
     </tr>
 <!-- 

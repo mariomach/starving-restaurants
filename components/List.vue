@@ -33,9 +33,34 @@ export default {
       return {
         restaurants: [
       {
-        "name": "Toto",
-        "city": "Bellevue",
-        "URL": "https://www.facebook.com"
+        "name": "Rockcreek",
+        "city": "Seattle",
+        "URL": "https://rockcreekseattle.com/store/product/gift-card/"
+      },
+        {
+        "name": "Oddfellows",
+        "city": "Seattle",
+        "URL": "http://www.thederschanggroup.com/store/gift-card"
+      },
+        {
+        "name": "Soi",
+        "city": "Capitol Hill",
+        "URL": "https://tilwedine.com/"
+      },
+        {
+        "name": "Sawyer",
+        "city": "Ballard",
+        "URL": "https://www.toasttab.com/sawyer-restaurant/giftcards"
+      },
+        {
+        "name": "Eight Row",
+        "city": "Seattle",
+        "URL": "https://squareup.com/gift/XVX5J5YM7ZD7M/order/"
+      },
+        {
+        "name": "Kedai Makan",
+        "city": "Seattle",
+        "URL": "http://www.kedaimakansea.com/gift-certificates"
       },
         
     ]
